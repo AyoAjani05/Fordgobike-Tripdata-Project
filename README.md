@@ -36,7 +36,7 @@ The dataset features include the duration of the trip, the time at which the tri
 - `Part_I_exploration.html:` the html version of the data wrangling, and Exploratory data analysis.
 - `Part_II_slide_deck.ipynb:` the Jupyter Notebook version of the Explanatory data analysis.
 - `Part_II_slide_deck.slides.html:` the html version of the Explanatory data analysis.
-- `datasets.7z:` the zipped datasets.
+- `Datasets.7z:` the zipped datasets.
 - `Requirements.txt`: the required python libraries.<br>
 `Note:` The datasets should be extracted from the zipped dataset folder
 

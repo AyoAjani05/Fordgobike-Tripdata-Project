@@ -36,9 +36,10 @@ The dataset features include the duration of the trip, the time at which the tri
 - `Part_I_exploration.html:` the html version of the data wrangling, and Exploratory data analysis.
 - `Part_II_slide_deck.ipynb:` the Jupyter Notebook version of the Explanatory data analysis.
 - `Part_II_slide_deck.slides.html:` the html version of the Explanatory data analysis.
-- `201902-fordgobike-tripdata.csv:` the raw dataset.
-- `cleaned_trip_data.csv:` the cleaned dataset.
-- `Requirements.txt`: the required python libraries.
+- `201902-fordgobike-tripdata.7z:` the zipped raw dataset.
+- `cleaned_trip_data.7z:` the zipped cleaned dataset.
+- `Requirements.txt`: the required python libraries.<br>
+`Note:` The datasets should be extracted from the zipped files
 
 # Installation and Configuration
 Download Anaconda at https://www.anaconda.com/download/ and install the libraries in the requirement.txt file using PIP

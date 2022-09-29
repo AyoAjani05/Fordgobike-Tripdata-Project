@@ -30,3 +30,27 @@ The dataset features include the duration of the trip, the time at which the tri
 - A majority of riders are between 18 and 50 years, having the most riders within the ages 27 and 33.
 - Most trips were taken on Thursdays and Tuesdays while the Weekends as expected have the least number of trips this maybe be due to fact that most people being spend the weekend resting at home.
 - The Busiest hours of the day in the morning are 8am and 9am, while in the evening, the busiest hours are 5pm and 6pm and so should be targeted to boost sales.
+
+# Table of Contents
+- `Part_I_exploration.ipynb:` the Jupyter Notebook version of the data wrangling, and Exploratory data analysis.
+- `Part_I_exploration.html:` the html version of the data wrangling, and Exploratory data analysis.
+- `Part_II_slide_deck.ipynb:` the Jupyter Notebook version of the Explanatory data analysis.
+- `Part_II_slide_deck.slides.html:` the html version of the Explanatory data analysis.
+- `201902-fordgobike-tripdata.csv:` the raw dataset.
+- `cleaned_trip_data.csv:` the cleaned dataset.
+- `Requirements.txt`: the required python libraries.
+
+# Installation and Configuration
+Download Anaconda at https://www.anaconda.com/download/ and install the libraries in the requirement.txt file using PIP
+
+Install Jupyter Notebook by running the following command:
+```
+conda install jupyter notebook
+```
+or
+```
+pip install jupyter notebook
+```
+
+Then launch the Jupyter Notebook to view the .ipynb file.
+

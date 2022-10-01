@@ -32,10 +32,8 @@ The dataset features include the duration of the trip, the time at which the tri
 - The Busiest hours of the day in the morning are 8am and 9am, while in the evening, the busiest hours are 5pm and 6pm and so should be targeted to boost sales.
 
 # Table of Contents
-- `Part_I_exploration.ipynb:` the Jupyter Notebook version of the data wrangling, and Exploratory data analysis.
-- `Part_I_exploration.html:` the html version of the data wrangling, and Exploratory data analysis.
-- `Part_II_slide_deck.ipynb:` the Jupyter Notebook version of the Explanatory data analysis.
-- `Part_II_slide_deck.slides.html:` the html version of the Explanatory data analysis.
+- `Jupyter Notebooks:` the Jupyter Notebook version of the analysis.
+- `HTML Notebooks` the HTML Notebook version of the Explanatory data analysis.
 - `Datasets.7z:` the zipped datasets.
 - `Requirements.txt`: the required python libraries.<br>
 `Note:` The datasets should be extracted from the zipped dataset folder

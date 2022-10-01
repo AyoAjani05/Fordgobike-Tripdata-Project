@@ -35,7 +35,7 @@ The dataset features include the duration of the trip, the time at which the tri
 - `Jupyter Notebooks:` the Jupyter Notebook version of the analysis.
 - `HTML Notebooks:` the HTML Notebook version of the Explanatory data analysis.
 - `Datasets.7z:` the zipped datasets.
-- `Requirements.txt`: the required python libraries.<br>
+- `Requirements.txt:` the required python libraries.<br>
 `Note:` The datasets should be extracted from the zipped dataset folder
 
 # Installation and Configuration
